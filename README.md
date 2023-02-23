@@ -1,4 +1,4 @@
-### 안녕하세요 신입 백엔드 개발자가 되기위해 공부중인 유재혁입니다!
+### 안녕하세요 백엔드 개발자가 되기위해 공부중인 유재혁입니다!
 
 <!--
 **99YJH/99YJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
