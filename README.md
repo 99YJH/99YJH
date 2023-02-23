@@ -1,3 +1,4 @@
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FLQMsM%2Fbtr0oAAUJtU%2FufpAJPDgLxILaTkkizVrF0%2Fimg.png">
 <!--
 **99YJH/99YJH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -45,4 +46,3 @@ Here are some ideas to get you started:
   <br>
    
 </div>
-   ![99YJH's GitHub stats](https://github-readme-stats.vercel.app/api?username=99YJH&show_icons=true&theme=dark)
