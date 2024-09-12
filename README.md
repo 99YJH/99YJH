@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">
    <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FLQMsM%2Fbtr0oAAUJtU%2FufpAJPDgLxILaTkkizVrF0%2Fimg.png">
-   <h3> 🖐🏻안녕하세요!🖐🏻<br> 백엔드 개발자가 되기 위해 공부중인 유재혁입니다! </h3>
+   <h3> 🖐🏻안녕하세요!🖐🏻<br> 성장중인 백엔드 개발자 유재혁입니다! </h3>
    <h3> 📚 Tech Stack 📚 </h3>
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -28,8 +28,7 @@ Here are some ideas to get you started:
   <br>
   
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 
